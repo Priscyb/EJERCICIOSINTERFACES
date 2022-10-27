@@ -1,2 +1,2 @@
 print("Pris")
-print("Hols")
+print("Hola")
